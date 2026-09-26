@@ -1,0 +1,242 @@
+[
+  {
+    "scheme_id": "up-widow-pension",
+    "title": "Vidhwa Pension Yojana (Widow Pension)",
+    "state": "Uttar Pradesh",
+    "category": "pension",
+    "source_url": "https://sspy-up.gov.in",
+    "content": "Scheme: Vidhwa Pension Yojana (Widow Pension) (विधवा पेंशन योजना)\nState: Uttar Pradesh\nCategory: pension\nDescription: Monthly pension for widows from economically weaker sections in Uttar Pradesh.\nBenefit: ₹1,000 / month\nEligibility: Applicant must be a widow. This scheme is only for residents of Uttar Pradesh. Annual family income must be below ₹2,00,000. Applicant must be at least 18 years old.\nRequired documents: Husband's death certificate, Income certificate, Aadhaar card, Bank passbook"
+  },
+  {
+    "scheme_id": "pmay-g",
+    "title": "Pradhan Mantri Awas Yojana - Gramin",
+    "state": "central",
+    "category": "housing",
+    "source_url": "https://pmayg.dord.gov.in",
+    "content": "Scheme: Pradhan Mantri Awas Yojana - Gramin (प्रधानमंत्री आवास योजना - ग्रामीण)\nState: Central Government (all of India)\nCategory: housing\nDescription: Financial assistance for construction of pucca house for rural homeless / kutcha house families.\nBenefit: ₹1,20,000 (plain areas) / ₹1,30,000 (hilly areas)\nEligibility: Annual household income must be below ₹3,00,000. Applicant should be from BPL / SECC-2011 deprived household list. Scheme prioritizes landless or kutcha-house households.\nRequired documents: SECC 2011 proof, Aadhaar card, Bank passbook, Land ownership / allotment document"
+  },
+  {
+    "scheme_id": "pmjdy",
+    "title": "Pradhan Mantri Jan Dhan Yojana",
+    "state": "central",
+    "category": "financial-inclusion",
+    "source_url": "https://pmjdy.gov.in",
+    "content": "Scheme: Pradhan Mantri Jan Dhan Yojana (प्रधानमंत्री जन धन योजना)\nState: Central Government (all of India)\nCategory: financial-inclusion\nDescription: Zero-balance bank account with insurance and overdraft access for unbanked citizens.\nBenefit: ₹2,00,000 accident insurance + ₹10,000 overdraft\nEligibility: Applicant must be at least 10 years old. Aadhaar or valid ID proof required for account opening.\nRequired documents: Aadhaar card, Passport size photo"
+  },
+  {
+    "scheme_id": "ignoaps",
+    "title": "Indira Gandhi National Old Age Pension Scheme",
+    "state": "central",
+    "category": "pension",
+    "source_url": "https://nsap.nic.in",
+    "content": "Scheme: Indira Gandhi National Old Age Pension Scheme (इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना)\nState: Central Government (all of India)\nCategory: pension\nDescription: Monthly pension for senior citizens (60+) from Below Poverty Line households, under the National Social Assistance Programme (NSAP). State governments usually add a top-up over the central amount.\nBenefit: ₹200/month (age 60-79) or ₹500/month (age 80+) from the Centre, plus a state top-up that varies by state\nEligibility: Applicant must be at least 60 years old. Applicant must belong to a Below Poverty Line (BPL) household.\nRequired documents: Age proof, BPL / ration card, Aadhaar card, Bank or post office passbook"
+  },
+  {
+    "scheme_id": "igndps",
+    "title": "Indira Gandhi National Disability Pension Scheme",
+    "state": "central",
+    "category": "pension",
+    "source_url": "https://nsap.nic.in",
+    "content": "Scheme: Indira Gandhi National Disability Pension Scheme (इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना)\nState: Central Government (all of India)\nCategory: pension\nDescription: Monthly pension under NSAP for adults with severe disability (80% or more) from Below Poverty Line households.\nBenefit: ₹300/month from the Centre, plus a state top-up that varies by state\nEligibility: Applicant must have a certified severe disability (80% or more). Applicant must be at least 18 years old. Applicant must belong to a Below Poverty Line (BPL) household.\nRequired documents: Disability certificate, Age proof, BPL / ration card, Aadhaar card, Bank or post office passbook"
+  },
+  {
+    "scheme_id": "pm-kisan",
+    "title": "PM-KISAN Samman Nidhi",
+    "state": "central",
+    "category": "agriculture",
+    "source_url": "https://pmkisan.gov.in",
+    "content": "Scheme: PM-KISAN Samman Nidhi (पीएम-किसान सम्मान निधि)\nState: Central Government (all of India)\nCategory: agriculture\nDescription: Income support for landholding farmer families, paid directly to Aadhaar-linked bank accounts in three instalments a year.\nBenefit: ₹6,000/year (three instalments of ₹2,000 each)\nEligibility: Applicant's occupation must be recorded as farming. Applicant's family must own cultivable agricultural land in official state land records. Aadhaar-linked bank account is required to receive instalments.\nRequired documents: Land ownership records, Aadhaar card, Bank passbook"
+  },
+  {
+    "scheme_id": "pmuy",
+    "title": "Pradhan Mantri Ujjwala Yojana",
+    "state": "central",
+    "category": "household",
+    "source_url": "https://www.pmuy.gov.in",
+    "content": "Scheme: Pradhan Mantri Ujjwala Yojana (प्रधानमंत्री उज्ज्वला योजना)\nState: Central Government (all of India)\nCategory: household\nDescription: Free LPG gas connection for adult women from poor households who don't already have one, to replace unsafe cooking fuels like wood and coal.\nBenefit: Free LPG connection + free first refill and stove; ongoing subsidy of ₹300/cylinder (up to 9 cylinders/year)\nEligibility: Applicant must be a woman. Applicant must be at least 18 years old. Applicant's household must qualify as poor (BPL card, or another accepted deprivation category).\nRequired documents: Aadhaar card, Ration card / family composition document, Deprivation / BPL self-declaration, Bank passbook"
+  },
+  {
+    "scheme_id": "ab-pmjay",
+    "title": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+    "state": "central",
+    "category": "health",
+    "source_url": "https://pmjay.gov.in",
+    "content": "Scheme: Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (आयुष्मान भारत - प्रधानमंत्री जन आरोग्य योजना)\nState: Central Government (all of India)\nCategory: health\nDescription: Cashless health insurance cover for hospitalisation at empanelled hospitals. Available to SECC-listed poor/vulnerable families, and separately to every citizen aged 70+ regardless of income (Ayushman Vay Vandana).\nBenefit: ₹5,00,000 per family per year, cashless at empanelled hospitals\nEligibility: Citizens aged 70 and above qualify regardless of income under Ayushman Vay Vandana — this applicant's age doesn't meet that route.\nRequired documents: Aadhaar card, Ration card, SECC / PMJAY family ID"
+  },
+  {
+    "scheme_id": "apy",
+    "title": "Atal Pension Yojana",
+    "state": "central",
+    "category": "pension",
+    "source_url": "https://www.jansuraksha.gov.in",
+    "content": "Scheme: Atal Pension Yojana (अटल पेंशन योजना)\nState: Central Government (all of India)\nCategory: pension\nDescription: Government-backed guaranteed pension scheme for workers in the unorganised sector, providing a fixed monthly pension after age 60 based on contributions made.\nBenefit: ₹1,000 to ₹5,000 / month after age 60 (based on contribution)\nEligibility: Applicant must be at least 18 years old. Applicant must be under 41 years old to join. Aadhaar-linked bank account is required.\nRequired documents: Aadhaar card, Bank passbook, Age proof"
+  },
+  {
+    "scheme_id": "pmsby",
+    "title": "Pradhan Mantri Suraksha Bima Yojana",
+    "state": "central",
+    "category": "insurance",
+    "source_url": "https://www.jansuraksha.gov.in",
+    "content": "Scheme: Pradhan Mantri Suraksha Bima Yojana (प्रधानमंत्री सुरक्षा बीमा योजना)\nState: Central Government (all of India)\nCategory: insurance\nDescription: Low-cost accidental death and disability insurance cover, renewable annually, for bank account holders.\nBenefit: ₹2,00,000 for accidental death / full disability; ₹1,00,000 for partial disability\nEligibility: Applicant must be at least 18 years old. Applicant must be under 71 years old. An active bank account linked to Aadhaar is required.\nRequired documents: Aadhaar card, Bank passbook"
+  },
+  {
+    "scheme_id": "pmjjby",
+    "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "state": "central",
+    "category": "insurance",
+    "source_url": "https://www.jansuraksha.gov.in",
+    "content": "Scheme: Pradhan Mantri Jeevan Jyoti Bima Yojana (प्रधानमंत्री जीवन ज्योति बीमा योजना)\nState: Central Government (all of India)\nCategory: insurance\nDescription: Renewable term life insurance scheme offering a lump sum to the nominee in case of the account holder's death, for a low annual premium.\nBenefit: ₹2,00,000 life cover on death of the insured\nEligibility: Applicant must be at least 18 years old. Applicant must be under 51 years old to newly enrol. An active bank account linked to Aadhaar is required.\nRequired documents: Aadhaar card, Bank passbook"
+  },
+  {
+    "scheme_id": "pmfby",
+    "title": "Pradhan Mantri Fasal Bima Yojana",
+    "state": "central",
+    "category": "agriculture",
+    "source_url": "https://pmfby.gov.in",
+    "content": "Scheme: Pradhan Mantri Fasal Bima Yojana (प्रधानमंत्री फसल बीमा योजना)\nState: Central Government (all of India)\nCategory: agriculture\nDescription: Crop insurance scheme protecting farmers against crop loss or damage from natural calamities, pests, or disease, at a heavily subsidised premium.\nBenefit: Full sum insured on notified crop loss (premium as low as 1.5–5% of sum insured)\nEligibility: Applicant's occupation must be recorded as farming. Applicant must own or have tenancy rights over cultivable land.\nRequired documents: Land ownership / tenancy records, Aadhaar card, Bank passbook"
+  },
+  {
+    "scheme_id": "pmmvy",
+    "title": "Pradhan Mantri Matru Vandana Yojana",
+    "state": "central",
+    "category": "health",
+    "source_url": "https://pmmvy.wcd.gov.in",
+    "content": "Scheme: Pradhan Mantri Matru Vandana Yojana (प्रधानमंत्री मातृ वंदना योजना)\nState: Central Government (all of India)\nCategory: health\nDescription: Maternity benefit cash incentive for pregnant and lactating women, to compensate for wage loss and encourage health-seeking behaviour around childbirth.\nBenefit: ₹5,000 in instalments for the first live birth (additional ₹6,000 for second child if a girl, under PMMVY 2.0)\nEligibility: Applicant must be a woman. Applicant must be at least 18 years old. Aadhaar-linked bank account is required for disbursal.\nRequired documents: Aadhaar card, Bank passbook"
+  },
+  {
+    "scheme_id": "jsy",
+    "title": "Janani Suraksha Yojana",
+    "state": "central",
+    "category": "health",
+    "source_url": "https://nhm.gov.in",
+    "content": "Scheme: Janani Suraksha Yojana (जननी सुरक्षा योजना)\nState: Central Government (all of India)\nCategory: health\nDescription: Cash assistance for institutional delivery to reduce maternal and infant mortality among poor and low-income pregnant women.\nBenefit: ₹1,400 (rural) / ₹1,000 (urban) for institutional delivery, varies by state\nEligibility: Applicant must be a woman. Applicant's household should belong to a poor/BPL category (relaxed in low-performing states).\nRequired documents: Aadhaar card, BPL / ration card, Bank passbook"
+  },
+  {
+    "scheme_id": "pmay-u",
+    "title": "Pradhan Mantri Awas Yojana - Urban",
+    "state": "central",
+    "category": "housing",
+    "source_url": "https://pmay-urban.gov.in",
+    "content": "Scheme: Pradhan Mantri Awas Yojana - Urban (प्रधानमंत्री आवास योजना - शहरी)\nState: Central Government (all of India)\nCategory: housing\nDescription: Affordable housing scheme for urban poor and middle-income households, offering interest subsidy on home loans or direct financial assistance for construction.\nBenefit: Up to ₹2,67,000 interest subsidy (credit-linked) or direct assistance depending on income category\nEligibility: Annual household income must be below ₹18,00,000 (varies by income category). Applicant or family should not already own a pucca house anywhere in India.\nRequired documents: Aadhaar card, Income certificate, Bank passbook"
+  },
+  {
+    "scheme_id": "nfbs",
+    "title": "National Family Benefit Scheme",
+    "state": "central",
+    "category": "welfare",
+    "source_url": "https://nsap.nic.in",
+    "content": "Scheme: National Family Benefit Scheme (राष्ट्रीय परिवार लाभ योजना)\nState: Central Government (all of India)\nCategory: welfare\nDescription: One-time lump sum assistance to a Below Poverty Line household on the death of the primary breadwinner (aged 18–59), under the National Social Assistance Programme.\nBenefit: ₹20,000 one-time lump sum\nEligibility: Applicant's household must belong to a Below Poverty Line (BPL) household.\nRequired documents: Death certificate, BPL / ration card, Aadhaar card, Bank passbook"
+  },
+  {
+    "scheme_id": "pm-sym",
+    "title": "Pradhan Mantri Shram Yogi Maandhan",
+    "state": "central",
+    "category": "pension",
+    "source_url": "https://maandhan.in",
+    "content": "Scheme: Pradhan Mantri Shram Yogi Maandhan (प्रधानमंत्री श्रम योगी मानधन)\nState: Central Government (all of India)\nCategory: pension\nDescription: Voluntary contributory pension scheme for unorganised sector workers, guaranteeing ₹3,000/month pension after age 60, with matching government contribution.\nBenefit: ₹3,000/month pension after age 60\nEligibility: Applicant must be at least 18 years old. Applicant must be under 41 years old to join. Monthly income should not exceed ₹15,000 (approx. ₹1,80,000/year). Aadhaar-linked bank account is required.\nRequired documents: Aadhaar card, Bank passbook, Age proof"
+  },
+  {
+    "scheme_id": "pmvvy",
+    "title": "Pradhan Mantri Vaya Vandana Yojana",
+    "state": "central",
+    "category": "pension",
+    "source_url": "https://licindia.in",
+    "content": "Scheme: Pradhan Mantri Vaya Vandana Yojana (प्रधानमंत्री वय वंदना योजना)\nState: Central Government (all of India)\nCategory: pension\nDescription: Guaranteed pension scheme for senior citizens through a lump-sum investment with LIC, offering assured returns for 10 years. Note: closed for new subscriptions since 31 March 2023 — only existing policyholders can manage policies via LIC.\nBenefit: Guaranteed pension of 7.4% p.a., payable monthly/quarterly/annually\nEligibility: Applicant must be at least 60 years old.\nRequired documents: Age proof, Aadhaar card, Bank passbook"
+  },
+  {
+    "scheme_id": "rashtriya-vayoshri",
+    "title": "Rashtriya Vayoshri Yojana",
+    "state": "central",
+    "category": "welfare",
+    "source_url": "https://scw.dosje.gov.in/rashtriya-vayoshri-yojana",
+    "content": "Scheme: Rashtriya Vayoshri Yojana (राष्ट्रीय वयोश्री योजना)\nState: Central Government (all of India)\nCategory: welfare\nDescription: Provides free assistive devices (walking sticks, hearing aids, wheelchairs, spectacles, etc.) to senior citizens from BPL households.\nBenefit: Free physical aids and assisted-living devices\nEligibility: Applicant must be at least 60 years old. Applicant must belong to a Below Poverty Line (BPL) household.\nRequired documents: Age proof, BPL / ration card, Medical assessment certificate"
+  },
+  {
+    "scheme_id": "pm-svanidhi",
+    "title": "PM SVANidhi",
+    "state": "central",
+    "category": "financial-inclusion",
+    "source_url": "https://pmsvanidhi.mohua.gov.in",
+    "content": "Scheme: PM SVANidhi (पीएम स्वनिधि)\nState: Central Government (all of India)\nCategory: financial-inclusion\nDescription: Micro-credit facility for urban street vendors to resume livelihoods, offering small working-capital loans without collateral.\nBenefit: ₹10,000 (1st loan), ₹20,000 (2nd), ₹50,000 (3rd) — collateral-free\nEligibility: Applicant must be a certified/identified urban street vendor. Aadhaar-linked bank account is required.\nRequired documents: Certificate of Vending / Vendor ID, Aadhaar card, Bank passbook"
+  },
+  {
+    "scheme_id": "stand-up-india",
+    "title": "Stand Up India",
+    "state": "central",
+    "category": "financial-inclusion",
+    "source_url": "https://www.standupmitra.in",
+    "content": "Scheme: Stand Up India (स्टैंड अप इंडिया)\nState: Central Government (all of India)\nCategory: financial-inclusion\nDescription: Bank loans between ₹10 lakh and ₹1 crore for SC/ST and women entrepreneurs setting up new greenfield enterprises.\nBenefit: ₹10,00,000 to ₹1,00,00,000 bank loan\nEligibility: Scheme is open to women entrepreneurs, or SC/ST applicants. Scheme is open to SC/ST entrepreneurs, or women applicants.\nRequired documents: Aadhaar card, Business project report, Caste certificate, Bank passbook"
+  },
+  {
+    "scheme_id": "pm-mudra",
+    "title": "Pradhan Mantri Mudra Yojana",
+    "state": "central",
+    "category": "financial-inclusion",
+    "source_url": "https://www.mudra.org.in",
+    "content": "Scheme: Pradhan Mantri Mudra Yojana (प्रधानमंत्री मुद्रा योजना)\nState: Central Government (all of India)\nCategory: financial-inclusion\nDescription: Collateral-free loans up to ₹20 lakh for non-corporate, non-farm micro and small enterprises, categorised as Shishu, Kishor, Tarun, and Tarun Plus.\nBenefit: Up to ₹20,00,000 collateral-free loan\nEligibility: Applicant must be at least 18 years old. Aadhaar-linked bank account is required.\nRequired documents: Aadhaar card, Business plan / project proposal, Bank passbook"
+  },
+  {
+    "scheme_id": "pmkvy",
+    "title": "Pradhan Mantri Kaushal Vikas Yojana",
+    "state": "central",
+    "category": "skill-development",
+    "source_url": "https://www.pmkvyofficial.org",
+    "content": "Scheme: Pradhan Mantri Kaushal Vikas Yojana (प्रधानमंत्री कौशल विकास योजना)\nState: Central Government (all of India)\nCategory: skill-development\nDescription: Free short-term skill training and certification for youth, with placement assistance, under the flagship skilling scheme of the Ministry of Skill Development.\nBenefit: Free skill training + certification (and monetary reward on certification for some cohorts)\nEligibility: Applicant must be at least 15 years old. Applicant must generally be under 45 years old. Aadhaar is required for enrolment and certification.\nRequired documents: Aadhaar card, Educational qualification certificate, Bank passbook"
+  },
+  {
+    "scheme_id": "ddu-gky",
+    "title": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+    "state": "central",
+    "category": "skill-development",
+    "source_url": "https://ddugky.gov.in",
+    "content": "Scheme: Deen Dayal Upadhyaya Grameen Kaushalya Yojana (दीन दयाल उपाध्याय ग्रामीण कौशल्य योजना)\nState: Central Government (all of India)\nCategory: skill-development\nDescription: Placement-linked skill training programme for rural poor youth, part of the National Rural Livelihood Mission.\nBenefit: Free residential skill training + guaranteed placement assistance\nEligibility: Applicant must be at least 15 years old. Applicant must be under 36 years old. Applicant must belong to a rural poor / BPL household.\nRequired documents: Aadhaar card, BPL / ration card, Bank passbook"
+  },
+  {
+    "scheme_id": "mgnrega",
+    "title": "Mahatma Gandhi National Rural Employment Guarantee Act",
+    "state": "central",
+    "category": "employment",
+    "source_url": "https://nrega.nic.in",
+    "content": "Scheme: Mahatma Gandhi National Rural Employment Guarantee Act (महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम)\nState: Central Government (all of India)\nCategory: employment\nDescription: Legal guarantee of 100 days of wage employment per financial year to every rural household whose adult members volunteer for unskilled manual work.\nBenefit: 100 days/year guaranteed wage employment at notified minimum wage\nEligibility: Applicant must be at least 18 years old. Applicant's household must be in a rural area.\nRequired documents: Passport size photo, Aadhaar card, Residence proof"
+  },
+  {
+    "scheme_id": "pm-vishwakarma",
+    "title": "PM Vishwakarma Yojana",
+    "state": "central",
+    "category": "financial-inclusion",
+    "source_url": "https://pmvishwakarma.gov.in",
+    "content": "Scheme: PM Vishwakarma Yojana (पीएम विश्वकर्मा योजना)\nState: Central Government (all of India)\nCategory: financial-inclusion\nDescription: Support scheme for traditional artisans and craftspeople (18 trades), offering skill upgradation, toolkit incentive, and collateral-free credit.\nBenefit: ₹15,000 toolkit incentive + collateral-free loans up to ₹3,00,000\nEligibility: Applicant must be engaged in one of the recognised traditional trades/crafts. Applicant must be at least 18 years old. Aadhaar-linked bank account is required.\nRequired documents: Aadhaar card, Proof of trade / craft, Bank passbook"
+  },
+  {
+    "scheme_id": "aay",
+    "title": "Antyodaya Anna Yojana",
+    "state": "central",
+    "category": "household",
+    "source_url": "https://nfsa.gov.in",
+    "content": "Scheme: Antyodaya Anna Yojana (अंत्योदय अन्न योजना)\nState: Central Government (all of India)\nCategory: household\nDescription: Highly subsidised foodgrain scheme for the poorest of the poor households under the Public Distribution System.\nBenefit: 35 kg foodgrain/month at ₹2/kg (wheat) and ₹3/kg (rice)\nEligibility: Applicant's household must be identified as poorest-of-the-poor (AAY category) by the state.\nRequired documents: Ration card application / existing card, Aadhaar card, Income / poverty status document"
+  },
+  {
+    "scheme_id": "nsp-post-matric-sc",
+    "title": "Post Matric Scholarship for SC Students",
+    "state": "central",
+    "category": "education",
+    "source_url": "https://scholarships.gov.in",
+    "content": "Scheme: Post Matric Scholarship for SC Students (अनुसूचित जाति के लिए पोस्ट मैट्रिक छात्रवृत्ति)\nState: Central Government (all of India)\nCategory: education\nDescription: Financial assistance covering fees and maintenance allowance for SC students pursuing post-matriculation / post-secondary studies.\nBenefit: Full course fee reimbursement + monthly maintenance allowance\nEligibility: Applicant must belong to a Scheduled Caste (SC). Parental/family annual income must be below ₹2,50,000.\nRequired documents: Caste certificate, Income certificate, Aadhaar card, Admission / bonafide certificate, Bank passbook"
+  },
+  {
+    "scheme_id": "nsp-pre-matric-st",
+    "title": "Pre-Matric Scholarship for ST Students",
+    "state": "central",
+    "category": "education",
+    "source_url": "https://scholarships.gov.in",
+    "content": "Scheme: Pre-Matric Scholarship for ST Students (अनुसूचित जनजाति के लिए प्री-मैट्रिक छात्रवृत्ति)\nState: Central Government (all of India)\nCategory: education\nDescription: Scholarship support for ST students studying in classes 9 and 10, to reduce dropout at the secondary school stage.\nBenefit: Annual scholarship for tuition, books, and maintenance allowance\nEligibility: Applicant must belong to a Scheduled Tribe (ST). Parental/family annual income must be below ₹2,50,000.\nRequired documents: Tribe certificate, Income certificate, Aadhaar card, School enrolment certificate, Bank passbook"
+  },
+  {
+    "scheme_id": "ssy",
+    "title": "Sukanya Samriddhi Yojana",
+    "state": "central",
+    "category": "financial-inclusion",
+    "source_url": "https://www.nsiindia.gov.in",
+    "content": "Scheme: Sukanya Samriddhi Yojana (सुकन्या समृद्धि योजना)\nState: Central Government (all of India)\nCategory: financial-inclusion\nDescription: Small savings scheme for the parents/guardians of a girl child, offering a high fixed interest rate to build a corpus for her education and marriage expenses.\nBenefit: High government-fixed interest rate (compounded annually) on deposits until maturity\nEligibility: Account can only be opened for a girl child. The girl child must be under 10 years old at the time of account opening.\nRequired documents: Birth certificate, Aadhaar card, Guardian's ID proof"
+  }
+]

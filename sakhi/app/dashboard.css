@@ -1,0 +1,409 @@
+/* ==========================================================================
+   Yojana Sakhi AI — Dashboard visual identity
+   ========================================================================== */
+
+   .ys-dashboard {
+    --ys-ink: #15161d;
+    --ys-ink-2: #1c1d27;
+    --ys-ink-3: #23242f;
+    --ys-paper: #f6f1e4;
+    --ys-seal: #ad3a2c;
+    --ys-seal-soft: rgba(173, 58, 44, 0.16);
+    --ys-marigold: #dd9a2e;
+    --ys-marigold-soft: rgba(221, 154, 46, 0.16);
+    --ys-tulsi: #4b8a63;
+    --ys-tulsi-soft: rgba(75, 138, 99, 0.16);
+    --ys-indigo: #5a6bb0;
+    --ys-indigo-soft: rgba(90, 107, 176, 0.16);
+    --ys-line: rgba(246, 241, 228, 0.1);
+    --ys-text: #f3f0e6;
+    --ys-text-dim: #b6b0a1;
+  
+    font-family: "Inter", "Segoe UI", system-ui, -apple-system, "Noto Sans Devanagari", sans-serif;
+  }
+  
+  .ys-dashboard .ys-display {
+    font-family: "Fraunces", Georgia, serif;
+    font-optical-sizing: auto;
+  }
+  
+  /* Eyebrow Header */
+  .ys-dashboard .ys-eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ys-marigold);
+    margin-bottom: 8px;
+  }
+  
+  .ys-dashboard .ys-eyebrow::before {
+    content: "";
+    width: 22px;
+    height: 1px;
+    background: var(--ys-marigold);
+    opacity: 0.7;
+  }
+  
+  /* Hero Section */
+  .ys-dashboard .hero {
+    position: relative;
+    overflow: hidden;
+    background: radial-gradient(120% 140% at 88% -10%, rgba(221, 154, 46, 0.16), transparent 55%),
+                radial-gradient(90% 120% at -10% 120%, rgba(75, 138, 99, 0.14), transparent 55%),
+                linear-gradient(160deg, var(--ys-ink-2), var(--ys-ink));
+    border: 1px solid var(--ys-line);
+    border-radius: 22px;
+    padding: 36px 42px 34px;
+    text-align: left;
+  }
+  
+  .ys-dashboard .hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--ys-marigold) 0%, var(--ys-marigold) 33%, var(--ys-paper) 33%, var(--ys-paper) 67%, var(--ys-tulsi) 67%);
+    opacity: 0.85;
+  }
+  
+  /* Professional Brand & Emblem Layout */
+  .ys-dashboard .hero-brand-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+  }
+  
+  .ys-dashboard .logo-badge-wrapper {
+    background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.12), transparent);
+    border: 1px solid rgba(246, 241, 228, 0.15);
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .ys-dashboard .brand-text {
+    text-align: left;
+  }
+  
+  .ys-dashboard .ys-display {
+    margin: 0;
+    font-size: 2.4rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--ys-text);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    line-height: 1.1;
+  }
+  
+  .ys-dashboard .ai-tag {
+    font-size: 0.85rem;
+    background: var(--ys-seal);
+    color: var(--ys-paper);
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    vertical-align: middle;
+  }
+  
+  .ys-dashboard .gov-seal {
+    font-size: 14px;
+    margin-right: 2px;
+  }
+  
+  .ys-dashboard .hero .tagline {
+    font-size: 15.5px;
+    color: var(--ys-text-dim);
+    margin: 4px 0;
+    font-weight: 500;
+  }
+  
+  .ys-dashboard .hero .quote {
+    font-family: "Fraunces", Georgia, serif;
+    font-style: italic;
+    font-size: 16.5px;
+    color: var(--ys-marigold);
+    opacity: 0.95;
+    margin: 8px 0 22px;
+  }
+  
+  .ys-dashboard .hero-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .ys-dashboard .hero-pill {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px;
+    color: var(--ys-text);
+    background: rgba(246, 241, 228, 0.06);
+    border: 1px solid var(--ys-line);
+    border-radius: 999px;
+    padding: 7px 14px;
+  }
+  
+  /* Stamp signature component */
+  .ys-dashboard .ys-stamp {
+    --stamp-color: var(--ys-seal);
+    color: var(--stamp-color);
+    flex-shrink: 0;
+  }
+  
+  .ys-dashboard .ys-stamp svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Stats Row */
+  .ys-dashboard .stats-row {
+    gap: 16px;
+  }
+  
+  .ys-dashboard .stat-card {
+    background: var(--ys-ink-2);
+    border: 1px solid var(--ys-line);
+    border-radius: 18px;
+    align-items: center;
+  }
+  
+  .ys-dashboard .stat-icon {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    border: 1.5px solid currentColor;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 19px;
+    background: transparent;
+  }
+  
+  .ys-dashboard .stat-card:nth-of-type(1) .stat-icon { color: var(--ys-marigold); }
+  .ys-dashboard .stat-card:nth-of-type(2) .stat-icon { color: var(--ys-indigo); }
+  .ys-dashboard .stat-card:nth-of-type(3) .stat-icon { color: var(--ys-tulsi); }
+  
+  .ys-dashboard .stat-value {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--ys-text);
+  }
+  
+  .ys-dashboard .stat-label {
+    color: var(--ys-text);
+    font-weight: 600;
+    font-size: 13px;
+  }
+  
+  .ys-dashboard .stat-sub {
+    color: var(--ys-text-dim);
+  }
+  
+  /* Chat Card & Bubbles */
+  .ys-dashboard .chat-card {
+    background: var(--ys-ink-2);
+    border: 1px solid var(--ys-line);
+    border-radius: 20px;
+  }
+  
+  .ys-dashboard .chat-card-header {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12.5px;
+    letter-spacing: 0.03em;
+    color: var(--ys-text-dim);
+    border-bottom: 1px solid var(--ys-line);
+    text-transform: uppercase;
+  }
+  
+  .ys-dashboard .chat-avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: var(--ys-seal-soft);
+    border: 1px solid rgba(173, 58, 44, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .ys-dashboard .bubble.assistant {
+    background: var(--ys-ink-3);
+    border: 1px solid var(--ys-line);
+    color: var(--ys-text);
+    border-radius: 4px 16px 16px 16px;
+  }
+  
+  .ys-dashboard .bubble.user {
+    background: linear-gradient(135deg, var(--ys-marigold), #c97f24);
+    color: #201200;
+    border-radius: 16px 4px 16px 16px;
+    font-weight: 500;
+  }
+  
+  .ys-dashboard .bubble.pending {
+    color: var(--ys-text-dim);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12.5px;
+  }
+  
+  .ys-dashboard .quick-start-label {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ys-text-dim);
+  }
+  
+  .ys-dashboard .quick-start-btn {
+    background: var(--ys-ink-3);
+    border: 1px solid var(--ys-line);
+    border-radius: 12px;
+    color: var(--ys-text);
+    transition: border-color 0.15s ease, transform 0.1s ease;
+  }
+  
+  .ys-dashboard .quick-start-btn:hover:not(:disabled) {
+    border-color: var(--ys-marigold);
+    transform: translateY(-1px);
+  }
+  
+  .ys-dashboard .composer {
+    background: var(--ys-ink-3);
+    border: 1px solid var(--ys-line);
+    border-radius: 999px;
+  }
+  
+  .ys-dashboard .composer input {
+    background: transparent;
+    color: var(--ys-text);
+  }
+  
+  .ys-dashboard .composer button[type="submit"] {
+    background: var(--ys-seal);
+    color: var(--ys-paper);
+    border-radius: 50%;
+  }
+  
+  .ys-dashboard .chat-disclaimer {
+    color: var(--ys-text-dim);
+    font-size: 11.5px;
+  }
+  
+  /* Sidebar Cards */
+  .ys-dashboard .card {
+    background: var(--ys-ink-2);
+    border: 1px solid var(--ys-line);
+    border-radius: 18px;
+  }
+  
+  .ys-dashboard .card-title {
+    font-family: "Fraunces", Georgia, serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--ys-text);
+  }
+  
+  .ys-dashboard .link-muted {
+    color: var(--ys-marigold);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11.5px;
+  }
+  
+  .ys-dashboard .scheme-row {
+    border-radius: 12px;
+    transition: background 0.15s ease;
+  }
+  
+  .ys-dashboard .scheme-row:hover {
+    background: rgba(246, 241, 228, 0.04);
+  }
+  
+  .ys-dashboard .scheme-icon {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background: var(--ys-marigold-soft);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .ys-dashboard .scheme-name {
+    color: var(--ys-text);
+    font-weight: 600;
+    font-size: 13.5px;
+  }
+  
+  .ys-dashboard .scheme-sub {
+    color: var(--ys-text-dim);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11.5px;
+  }
+  
+  .ys-dashboard .quick-action {
+    border-radius: 12px;
+    border: 1px solid transparent;
+    transition: border-color 0.15s ease, background 0.15s ease;
+    color: var(--ys-text);
+  }
+  
+  .ys-dashboard .quick-action:hover {
+    border-color: var(--ys-line);
+    background: rgba(246, 241, 228, 0.03);
+  }
+  
+  .ys-dashboard .quick-action-icon {
+    width: 34px;
+    height: 34px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .ys-dashboard .quick-action-icon.green  { background: var(--ys-tulsi-soft); }
+  .ys-dashboard .quick-action-icon.blue   { background: var(--ys-indigo-soft); }
+  .ys-dashboard .quick-action-icon.orange { background: var(--ys-marigold-soft); }
+  .ys-dashboard .quick-action-icon.purple { background: var(--ys-seal-soft); }
+  
+  /* Keyframe Animations */
+  @media (prefers-reduced-motion: no-preference) {
+    .ys-dashboard .hero {
+      animation: ys-rise 0.5s ease both;
+    }
+    .ys-dashboard .stats-row .stat-card {
+      animation: ys-rise 0.5s ease both;
+    }
+    .ys-dashboard .stats-row .stat-card:nth-of-type(1) { animation-delay: 0.06s; }
+    .ys-dashboard .stats-row .stat-card:nth-of-type(2) { animation-delay: 0.12s; }
+    .ys-dashboard .stats-row .stat-card:nth-of-type(3) { animation-delay: 0.18s; }
+  }
+  
+  @keyframes ys-rise {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  
+  /* Accessibility Focus States */
+  .ys-dashboard a:focus-visible,
+  .ys-dashboard button:focus-visible,
+  .ys-dashboard input:focus-visible {
+    outline: 2px solid var(--ys-marigold);
+    outline-offset: 2px;
+  }
